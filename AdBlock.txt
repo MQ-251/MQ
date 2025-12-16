@@ -164951,6 +164951,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www2.giga-jp.com
 0.0.0.0 yamidas.yamiboard.com
 0.0.0.0 yamigama.com
+216.239.38.120 www.google.com
 # blacklist
 #
 # The contents of this file (containing a listing of additional domains in
@@ -164959,3 +164960,4 @@ ff02::3 ip6-allhosts
 # 'example.com':
 
 # 0.0.0.0 example.com
+216.239.38.120 www.google.com
